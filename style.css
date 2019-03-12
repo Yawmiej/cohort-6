@@ -1,0 +1,27 @@
+body {
+    
+    
+}
+
+div {
+    padding: 40px;
+    width: 500px;
+    background-color: rgb(243, 222, 222);
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #3d4d79;
+    border-radius: 30px;
+}
+
+img {
+    width: 200px;
+    margin-left: 30%;
+}
+
+h1 {
+    color:#3d4d79;
+    text-transform: uppercase;
+    text-align: center;
+}
+
